@@ -1,0 +1,13 @@
+StartChar: hiragana_ga
+Encoding: 12364 12364 104
+Width: 1000
+InSpiro: 1
+Flags: W
+HStem: 378.641 90.4102<71.0628 199.357 290.971 420.408>
+VStem: 201.009 89.9824<472.336 690.474> 445.001 90.1914<-122.393 -46.1189>
+LayerCount: 2
+Fore
+Refer: 399 12441 S 1 0 0 1 678 22 2
+Refer: 103 12363 N 1 0 0 1 -40 -10 2
+Validated: 1
+EndChar

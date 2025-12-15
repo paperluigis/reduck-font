@@ -1,0 +1,10 @@
+StartChar: hiragana_be
+Encoding: 12409 12409 516
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+Refer: 399 12441 S 1 0 0 1 600 -190 2
+Refer: 375 12408 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
