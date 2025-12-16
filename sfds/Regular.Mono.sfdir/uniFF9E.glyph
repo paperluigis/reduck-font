@@ -1,7 +1,8 @@
 StartChar: uniFF9E
-Encoding: 65438 65438 615
-Width: 0
+Encoding: 65438 65438 611
+Width: 500
+Flags: HW
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 0 0 3
+Refer: 395 12441 N 1 0 0 1 76.4092 -18.1099 2
 EndChar

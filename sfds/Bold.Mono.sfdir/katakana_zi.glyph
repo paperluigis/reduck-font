@@ -1,12 +1,12 @@
 StartChar: katakana_zi
-Encoding: 12472 12472 487
+Encoding: 12472 12472 483
 Width: 1000
 Flags: W
 HStem: 648.94 20G<733.6 755.381>
 VStem: 690.424 126.82<574.014 649.909> 698.347 118.742<416.59 583.909>
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 746 42 2
-Refer: 434 12471 N 1 0 0 1 0 0 2
+Refer: 395 12441 N 1 0 0 1 746 42 2
+Refer: 430 12471 N 1 0 0 1 0 0 2
 Validated: 5
 EndChar

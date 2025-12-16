@@ -1,12 +1,12 @@
 StartChar: hiragana_te
-Encoding: 12389 12389 507
+Encoding: 12389 12389 503
 Width: 1000
 Flags: W
 HStem: -113.796 104.815<311.715 516.767> 470.312 89.9865<390.438 661.211>
 VStem: 773.071 89.9809<170.174 344.298>
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 710 -26 2
-Refer: 364 12388 N 1 0 0 1 0 0 2
+Refer: 395 12441 N 1 0 0 1 710 -26 2
+Refer: 360 12388 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

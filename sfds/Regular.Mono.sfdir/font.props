@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1765643887
-ModificationTime: 1765819042
+ModificationTime: 1765912659
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "thing2" { "thing2-1"  } []
 Lookup: 2 0 0 "thing" { "thing-1"  "thing-2"  } []
 MarkAttachClasses: 1
@@ -46,7 +47,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 0
 FitToEm: 0
-WinInfo: 78 13 9
+WinInfo: 65403 13 9
 BeginPrivate: 0
 EndPrivate
 Grid

@@ -31,7 +31,7 @@
 		</source>
 	</sources>
 	<variable-fonts>
-		<variable-font name="Reduck Sans" filename="ReduckSans.Variable.otf">
+		<variable-font name="Reduck Sans" filename="ReduckSans.Variable.ttf">
 			<axis-subsets>
 				<axis-subset name="weight" />
 				<axis-subset name="monospacedness" />

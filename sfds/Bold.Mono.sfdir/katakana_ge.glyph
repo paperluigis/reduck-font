@@ -1,12 +1,12 @@
 StartChar: katakana_ge
-Encoding: 12466 12466 484
+Encoding: 12466 12466 480
 Width: 1000
 Flags: W
 HStem: 407.356 103.48<679.545 868.016>
 VStem: 318.511 106.179<583.702 709.866>
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 610 -22 2
-Refer: 431 12465 N 1 0 0 1 0 0 2
+Refer: 395 12441 N 1 0 0 1 610 -22 2
+Refer: 427 12465 N 1 0 0 1 0 0 2
 Validated: 5
 EndChar

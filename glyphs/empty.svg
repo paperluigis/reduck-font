@@ -4,7 +4,7 @@
 <svg
    height="1000"
    width="500"
-   sodipodi:docname="glyphs.svg"
+   sodipodi:docname="empty.svg"
    version="1.1"
    id="svg1"
    viewBox="0 0 500 1000"
@@ -24,10 +24,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.464"
-     inkscape:cx="505.38793"
+     inkscape:cx="504.31034"
      inkscape:cy="575.43103"
      inkscape:document-units="px"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:window-width="1362"
@@ -109,4 +109,7 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <g
+     id="layer1"
+     inkscape:label="glyphs" />
 </svg>

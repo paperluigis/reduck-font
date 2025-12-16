@@ -1,12 +1,12 @@
 StartChar: hiragana_zi
-Encoding: 12376 12376 355
+Encoding: 12376 12376 351
 Width: 1000
 Flags: W
 HStem: -72.2478 90.0387<364.846 545.378>
 VStem: 170.774 90.0106<188.732 586.707>
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 416 -190 2
+Refer: 395 12441 N 1 0 0 1 416 -190 2
 Refer: 110 12375 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

@@ -1,11 +1,11 @@
 StartChar: katakana_di
-Encoding: 12482 12482 492
+Encoding: 12482 12482 488
 Width: 1000
 Flags: W
 HStem: 180.876 118.888<150.993 430.74 556.509 831.727> 189.827 118.762<556.509 878.783> 200.372 118.776<38.9102 378.55>
 LayerCount: 2
 Fore
-Refer: 399 12441 N 1 0 0 1 634 -186 2
-Refer: 439 12481 N 1 0 0 1 0 0 2
+Refer: 395 12441 N 1 0 0 1 634 -186 2
+Refer: 435 12481 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

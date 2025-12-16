@@ -2,7 +2,7 @@ StartChar: backslash
 Encoding: 92 92 18
 Width: 500
 InSpiro: 1
-Flags: HW
+Flags: W
 LayerCount: 2
 Back
 Image2: image/png 1493 20 780 20.4082 20.4082
