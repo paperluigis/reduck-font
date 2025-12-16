@@ -4,7 +4,7 @@
 <svg
    height="1000"
    width="500"
-   sodipodi:docname="glyphs.svg"
+   sodipodi:docname="000020_ascii.svg"
    version="1.1"
    id="svg1"
    viewBox="0 0 500 1000"
@@ -24,10 +24,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.464"
-     inkscape:cx="506.46552"
-     inkscape:cy="432.11207"
+     inkscape:cx="269.39655"
+     inkscape:cy="433.18966"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer13"
      showgrid="false"
      showguides="true"
      inkscape:window-width="1362"
@@ -99,12 +99,12 @@
   </metadata>
   <g
      id="layer2"
-     inkscape:label="ascii"
+     inkscape:label="glyphs"
      style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer17"
-       inkscape:label="u"
+       inkscape:label="0075 u"
        style="display:none">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round"
@@ -114,7 +114,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer19"
-       inkscape:label="O"
+       inkscape:label="004f O"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:92.6096;stroke-linecap:round"
@@ -124,7 +124,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer20"
-       inkscape:label="J"
+       inkscape:label="004a J"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round"
@@ -138,7 +138,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer16"
-       inkscape:label="I"
+       inkscape:label="0049 I"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round"
@@ -156,7 +156,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="H"
+       inkscape:label="0048 H"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round"
@@ -174,7 +174,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer14"
-       inkscape:label="F"
+       inkscape:label="0046 F"
        style="display:none">
       <path
          d=""
@@ -195,7 +195,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="E"
+       inkscape:label="0045 E"
        style="display:inline"
        sodipodi:insensitive="true">
       <path
@@ -217,7 +217,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer12"
-       inkscape:label="parenright"
+       inkscape:label="0029 parenright"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -234,7 +234,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="parenleft"
+       inkscape:label="0028 parenleft"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -248,7 +248,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer10"
-       inkscape:label="quotesingle"
+       inkscape:label="0027 quotesingle"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -262,7 +262,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer9"
-       inkscape:label="ampersand"
+       inkscape:label="0026 ampersand"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -276,7 +276,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer8"
-       inkscape:label="percent"
+       inkscape:label="0025 percent"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -298,7 +298,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer7"
-       inkscape:label="dollar"
+       inkscape:label="0024 dollar"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -316,7 +316,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer6"
-       inkscape:label="numbersign"
+       inkscape:label="0023 numbersign"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -342,7 +342,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="quotedbl"
+       inkscape:label="0022 quotedb"
        style="display:none"
        sodipodi:insensitive="true">
       <path
@@ -360,7 +360,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer4"
-       inkscape:label="exclam"
+       inkscape:label="0021 exclam"
        style="display:none"
        sodipodi:insensitive="true">
       <path

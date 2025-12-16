@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!-- ref: https://github.com/fonttools/fonttools/blob/main/Doc/source/designspaceLib/xml.rst -->
+<designspace format="5.1">
+	<axes>
+		<axis name="weight" tag="wght" default="500" minimum="200" maximum="700">
+			<labels>
+				<label uservalue="200" name="Light" />
+				<label uservalue="400" name="Regular" />
+				<label uservalue="700" name="Bold" />
+			</labels>
+		</axis>
+		<axis name="monospacedness" tag="MONO" default="1" minimum="0" maximum="1">
+			<labels>
+				<label uservalue="0" name="Proportional" />
+				<label uservalue="1" name="Monospace" />
+			</labels>
+		</axis>
+	</axes>
+	<sources>
+		<source filename="ReduckSans.Regular.Mono.ufo">
+			<location>
+		        <dimension name="weight" xvalue="500" />
+		        <dimension name="monospacedness" xvalue="1" />
+		    </location>
+		</source>
+		<source filename="ReduckSans.Bold.Mono.ufo">
+			<location>
+		        <dimension name="weight" xvalue="700" />
+		        <dimension name="monospacedness" xvalue="1" />
+		    </location>
+		</source>
+	</sources>
+	<variable-fonts>
+		<variable-font name="Reduck Sans" filename="ReduckSans.Variable.otf">
+			<axis-subsets>
+				<axis-subset name="weight" />
+				<axis-subset name="monospacedness" />
+			</axis-subsets>
+		</variable-font>
+	</variable-fonts>
+</designspace>

@@ -4,7 +4,7 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="glyphs.svg"
+   sodipodi:docname="00ff00_fullwidth_ascii.svg"
    version="1.1"
    id="svg1"
    viewBox="0 0 1000 1000"
@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.464"
-     inkscape:cx="498.92241"
+     inkscape:cx="500"
      inkscape:cy="500"
      inkscape:document-units="px"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
-     inkscape:window-width="1419"
+     inkscape:window-width="1362"
      inkscape:window-height="730"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -99,12 +99,12 @@
   </metadata>
   <g
      id="layer22"
-     inkscape:label="ascii fullwidth (0xff00)"
+     inkscape:label="glyphs"
      style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="layer105"
-       inkscape:label="tilde"
+       inkscape:label="ff5e tilde"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -114,7 +114,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer106"
-       inkscape:label="right brace"
+       inkscape:label="ff5d right brace"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -124,7 +124,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer107"
-       inkscape:label="pipe"
+       inkscape:label="ff5c pipe"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -134,7 +134,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer108"
-       inkscape:label="left brace"
+       inkscape:label="ff5b left brace"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -144,7 +144,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer109"
-       inkscape:label="small z"
+       inkscape:label="ff5a small z"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -154,7 +154,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer110"
-       inkscape:label="small y"
+       inkscape:label="ff59 small y"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -168,7 +168,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer111"
-       inkscape:label="small x"
+       inkscape:label="ff58 small x"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -182,7 +182,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer112"
-       inkscape:label="small w"
+       inkscape:label="ff57 small w"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -192,7 +192,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer113"
-       inkscape:label="small v"
+       inkscape:label="ff56 small v"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -202,7 +202,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer114"
-       inkscape:label="small u"
+       inkscape:label="ff55 small u"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -212,7 +212,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer115"
-       inkscape:label="small t"
+       inkscape:label="ff54 small t"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -226,7 +226,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer116"
-       inkscape:label="small s"
+       inkscape:label="ff53 small s"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -236,7 +236,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer117"
-       inkscape:label="small r"
+       inkscape:label="ff52 small r"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -246,7 +246,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer118"
-       inkscape:label="small q"
+       inkscape:label="ff51 small q"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -260,7 +260,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer119"
-       inkscape:label="small p"
+       inkscape:label="ff50 small p"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -274,7 +274,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer120"
-       inkscape:label="small o"
+       inkscape:label="ff4f small o"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -284,7 +284,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer121"
-       inkscape:label="small n"
+       inkscape:label="ff4e small n"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -294,7 +294,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer122"
-       inkscape:label="small m"
+       inkscape:label="ff4d small m"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -304,7 +304,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer123"
-       inkscape:label="small l"
+       inkscape:label="ff4c small l"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -314,7 +314,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer124"
-       inkscape:label="small k"
+       inkscape:label="ff4b small k"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -332,7 +332,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer125"
-       inkscape:label="small j"
+       inkscape:label="ff4a small j"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -346,7 +346,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer126"
-       inkscape:label="small i"
+       inkscape:label="ff49 small i"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -360,7 +360,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer127"
-       inkscape:label="small h"
+       inkscape:label="ff48 small h"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -370,7 +370,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer128"
-       inkscape:label="small g"
+       inkscape:label="ff47 small g"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -384,7 +384,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer129"
-       inkscape:label="small f"
+       inkscape:label="ff46 small f"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -398,7 +398,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer130"
-       inkscape:label="small e"
+       inkscape:label="ff45 small e"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -408,7 +408,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer131"
-       inkscape:label="small d"
+       inkscape:label="ff44 small d"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -422,7 +422,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer132"
-       inkscape:label="small c"
+       inkscape:label="ff43 small c"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -432,7 +432,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer133"
-       inkscape:label="small b"
+       inkscape:label="ff42 small b"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -442,7 +442,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer134"
-       inkscape:label="small a"
+       inkscape:label="ff41 small a"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -452,7 +452,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer135"
-       inkscape:label="underscore"
+       inkscape:label="ff3f underscore"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -462,7 +462,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer136"
-       inkscape:label="caret"
+       inkscape:label="ff3e caret"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -472,7 +472,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer137"
-       inkscape:label="right bracket"
+       inkscape:label="ff3d right bracket"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -482,7 +482,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer138"
-       inkscape:label="backslash"
+       inkscape:label="ff3c backslash"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -492,7 +492,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer139"
-       inkscape:label="left bracket"
+       inkscape:label="ff3b left bracket"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -502,7 +502,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer23"
-       inkscape:label="exclamation mark"
+       inkscape:label="ff01 exclamation mark"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round"
@@ -516,7 +516,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer24"
-       inkscape:label="double quote"
+       inkscape:label="ff02 double quote"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -530,7 +530,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer25"
-       inkscape:label="number sign"
+       inkscape:label="ff04 number sign"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -553,7 +553,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer27"
-       inkscape:label="dollar"
+       inkscape:label="ff05 dollar"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -567,7 +567,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer29"
-       inkscape:label="ampersand"
+       inkscape:label="ff06 ampersand"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -577,7 +577,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer30"
-       inkscape:label="single quote"
+       inkscape:label="ff07 single quote"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -587,7 +587,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer31"
-       inkscape:label="left parenthesis"
+       inkscape:label="ff08 left parenthesis"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -597,7 +597,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer32"
-       inkscape:label="right parenthesis"
+       inkscape:label="ff09 right parenthesis"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -607,7 +607,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer33"
-       inkscape:label="asterisk"
+       inkscape:label="ff0a asterisk"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -625,7 +625,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer34"
-       inkscape:label="plus"
+       inkscape:label="ff0b plus"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -639,7 +639,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer35"
-       inkscape:label="comma"
+       inkscape:label="ff0c comma"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -649,7 +649,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer37"
-       inkscape:label="period"
+       inkscape:label="ff0e period"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -659,7 +659,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer36"
-       inkscape:label="minus"
+       inkscape:label="ff0d minus"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -669,7 +669,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer38"
-       inkscape:label="slash"
+       inkscape:label="ff0f slash"
        style="display:none;stroke-width:90;stroke-dasharray:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -679,7 +679,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer39"
-       inkscape:label="at"
+       inkscape:label="ff20 at"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-dasharray:none"
@@ -689,7 +689,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer40"
-       inkscape:label="capital a"
+       inkscape:label="ff21 capital a"
        style="display:inline">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -703,7 +703,7 @@
     <g
        inkscape:groupmode="layer"
        id="g72"
-       inkscape:label="capital b"
+       inkscape:label="ff22 capital b"
        style="display:none">
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -717,7 +717,7 @@
     <g
        inkscape:groupmode="layer"
        id="g71"
-       inkscape:label="capital c"
+       inkscape:label="ff23 capital c"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -727,7 +727,7 @@
     <g
        inkscape:groupmode="layer"
        id="g70"
-       inkscape:label="capital d"
+       inkscape:label="ff24 capital d"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -737,7 +737,7 @@
     <g
        inkscape:groupmode="layer"
        id="g69"
-       inkscape:label="capital e"
+       inkscape:label="ff25 capital e"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -755,7 +755,7 @@
     <g
        inkscape:groupmode="layer"
        id="g68"
-       inkscape:label="capital f"
+       inkscape:label="ff26 capital f"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -777,7 +777,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer41"
-       inkscape:label="capital g"
+       inkscape:label="ff27 capital g"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -787,7 +787,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer44"
-       inkscape:label="capital h"
+       inkscape:label="ff28 capital h"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -805,7 +805,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer45"
-       inkscape:label="capital i"
+       inkscape:label="ff29 capital i"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -823,7 +823,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer46"
-       inkscape:label="capital j"
+       inkscape:label="ff2a capital j"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -837,7 +837,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer47"
-       inkscape:label="capital k"
+       inkscape:label="ff2b capital k"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -855,7 +855,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer48"
-       inkscape:label="capital l"
+       inkscape:label="ff2c capital l"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -868,7 +868,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital m"
+       inkscape:label="ff2d capital m"
        id="g5428"
        style="display:none">
       <path
@@ -878,7 +878,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital n"
+       inkscape:label="ff2e capital n"
        id="g6938"
        style="display:none">
       <path
@@ -892,7 +892,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital o"
+       inkscape:label="ff2f capital o"
        id="g2639"
        style="display:none">
       <path
@@ -902,7 +902,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital p"
+       inkscape:label="ff30 capital p"
        id="g8291"
        style="display:none">
       <path
@@ -916,7 +916,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital q"
+       inkscape:label="ff31 capital q"
        id="g9516"
        style="display:none">
       <path
@@ -930,7 +930,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital r"
+       inkscape:label="ff32 capital r"
        id="g9268"
        style="display:none">
       <path
@@ -948,7 +948,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital s"
+       inkscape:label="ff33 capital s"
        id="g423"
        style="display:none">
       <path
@@ -958,7 +958,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital t"
+       inkscape:label="ff34 capital t"
        id="g6423"
        style="display:none">
       <path
@@ -972,7 +972,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital u"
+       inkscape:label="ff35 capital u"
        id="g7791"
        style="display:none">
       <path
@@ -982,7 +982,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital v"
+       inkscape:label="ff36 capital v"
        id="g1875"
        style="display:none">
       <path
@@ -992,7 +992,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital w"
+       inkscape:label="ff37 capital w"
        id="g4322"
        style="display:none">
       <path
@@ -1006,7 +1006,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital x"
+       inkscape:label="ff38 capital x"
        id="g947"
        style="display:none">
       <path
@@ -1020,7 +1020,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital y"
+       inkscape:label="ff39 capital y"
        id="g7410"
        style="display:none">
       <path
@@ -1035,7 +1035,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer1"
-       inkscape:label="percent"
+       inkscape:label="ff05 percent"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1052,7 +1052,7 @@
     </g>
     <g
        inkscape:groupmode="layer"
-       inkscape:label="capital z"
+       inkscape:label="ff3a capital z"
        id="g8338"
        style="display:none">
       <path
@@ -1063,7 +1063,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer21"
-       inkscape:label="digit 0"
+       inkscape:label="ff10 digit 0"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1077,7 +1077,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer26"
-       inkscape:label="digit 1"
+       inkscape:label="ff11 digit 1"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1091,7 +1091,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer28"
-       inkscape:label="digit 2"
+       inkscape:label="ff12 digit 2"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1101,7 +1101,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer42"
-       inkscape:label="digit 3"
+       inkscape:label="ff13 digit 3"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1115,7 +1115,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer43"
-       inkscape:label="digit 4"
+       inkscape:label="ff14 digit 4"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1129,7 +1129,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer49"
-       inkscape:label="digit 5"
+       inkscape:label="ff15 digit 5"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1139,7 +1139,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer50"
-       inkscape:label="digit 6"
+       inkscape:label="ff16 digit 6"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1149,7 +1149,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer51"
-       inkscape:label="digit 7"
+       inkscape:label="ff17 digit 7"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1163,7 +1163,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer52"
-       inkscape:label="digit 8"
+       inkscape:label="ff18 digit 8"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1173,7 +1173,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer53"
-       inkscape:label="digit 9"
+       inkscape:label="ff19 digit 9"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1183,7 +1183,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer54"
-       inkscape:label="colon"
+       inkscape:label="ff1a colon"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1197,7 +1197,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer55"
-       inkscape:label="semicolon"
+       inkscape:label="ff1b semicolon"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1211,7 +1211,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer56"
-       inkscape:label="equals"
+       inkscape:label="ff1d equals"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1225,7 +1225,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer57"
-       inkscape:label="less"
+       inkscape:label="ff1c less"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1235,7 +1235,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer58"
-       inkscape:label="greater"
+       inkscape:label="ff1e greater"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1245,7 +1245,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer59"
-       inkscape:label="question mark"
+       inkscape:label="ff1f question mark"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"
@@ -1259,7 +1259,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer60"
-       inkscape:label="grave"
+       inkscape:label="ff40 grave"
        style="display:none">
       <path
          style="fill:none;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-linejoin:round"

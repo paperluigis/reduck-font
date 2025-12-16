@@ -1,0 +1,10 @@
+StartChar: katakana_pa
+Encoding: 12497 12497 497
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+Refer: 400 12442 N 1 0 0 1 655 -92 2
+Refer: 449 12495 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

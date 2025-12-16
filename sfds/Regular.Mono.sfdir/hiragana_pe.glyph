@@ -1,0 +1,10 @@
+StartChar: hiragana_pe
+Encoding: 12410 12410 517
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+Refer: 400 12442 S 1 0 0 1 591 -226 2
+Refer: 375 12408 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

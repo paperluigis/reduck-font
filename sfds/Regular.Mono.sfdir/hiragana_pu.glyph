@@ -1,0 +1,11 @@
+StartChar: hiragana_pu
+Encoding: 12407 12407 515
+Width: 1000
+Flags: W
+VStem: 43.5631 90.0349<105.581 236.042> 555.312 89.9036<147.076 283.386> 781.898 93.4583<142.03 341.278>
+LayerCount: 2
+Fore
+Refer: 400 12442 N 1 0 0 1 689 -74 2
+Refer: 374 12405 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar

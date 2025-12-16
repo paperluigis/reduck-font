@@ -1,0 +1,12 @@
+StartChar: hiragana_bi
+Encoding: 12403 12403 512
+Width: 1000
+Flags: W
+HStem: -114.991 90.124<408.511 526.245> 374.974 94.8764<77.381 170.356>
+VStem: 208.017 90.0078<111.653 401.211> 660.862 90.1289<191.371 438.8>
+LayerCount: 2
+Fore
+Refer: 399 12441 N 1 0 0 1 702 4 2
+Refer: 373 12402 N 1 0 0 1 -40 0 2
+Validated: 1
+EndChar
