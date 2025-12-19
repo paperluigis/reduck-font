@@ -3,14 +3,15 @@ Reduck Sans is a font based on my handwriting.
 
 # TODO
 ## Character sets
-[X] Basic Latin
-[ ] Greek
-[X] Cyrillic (Russian and Bashkir subset)
-[ ] Box Drawing & Block Elements
-[X] Hiragana & Katakana
- - [ ] ensure proper writing of kana
-[ ] Chinese characters (dear god)
-[X] Sitelen Pona
+- [x] Basic Latin
+- [ ] Greek
+- [x] Cyrillic (Russian and Bashkir subset)
+- [ ] Box Drawing & Block Elements
+- [x] Hiragana & Katakana
+	- [ ] ensure proper writing of kana
+- [ ] Chinese characters (dear god)
+- [x] Sitelen Pona (UCSUR)
 ## Font features
-[ ] Variable axes
-[ ] Alternative glyphs for actual cursive
+- [ ] Variable axes
+	- [x] `wght` - weight
+- [ ] Alternative glyphs for actual cursive
