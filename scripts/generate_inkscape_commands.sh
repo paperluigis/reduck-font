@@ -21,10 +21,11 @@ $ARGS.named.img as $img |
 	"selection-unhide",
 	"select-clear",
 
-	#"select-by-selector:path",
+	"select-by-selector:path",
 	#"object-stroke-to-path",
 	#"path-union",
-	#"select-clear",
+	"select-clear",
+	#"path-simplify",
 
 	"export-area-page",
 

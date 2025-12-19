@@ -1,0 +1,31 @@
+StartChar: fullwidth_slash
+Encoding: 65295 65295 530
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+875 678 m 1
+ 882 667 l 1
+ 882 648 l 1
+ 869 635 l 1
+ 867 635 l 1
+ 701 467 l 1
+ 702 466 l 1
+ 372 97 l 1
+ 371 97 l 1
+ 190 -85 l 1
+ 175 -87 l 1
+ 161 -80 l 1
+ 154 -69 l 1
+ 154 -50 l 1
+ 167 -37 l 1
+ 169 -37 l 1
+ 337 131 l 1
+ 666 499 l 1
+ 840 676 l 1
+ 846 683 l 1
+ 861 685 l 1
+ 875 678 l 1
+EndSplineSet
+EndChar

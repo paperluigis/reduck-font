@@ -1,0 +1,36 @@
+StartChar: fullwidth_period
+Encoding: 65294 65294 529
+Width: 1000
+Flags: HW
+HStem: -27 122.9<421.872 512.279>
+VStem: 406.5 121.4<-13.1248 79.118>
+LayerCount: 2
+Fore
+SplineSet
+478 72 m 1
+ 485 74 l 1
+ 495 74 l 1
+ 506 69 l 1
+ 512 62 l 1
+ 528 19 l 1
+ 529 15 l 1
+ 529 4 l 1
+ 522 -7 l 1
+ 513 -11 l 1
+ 509 -13 l 1
+ 478 -17 l 1
+ 472 -17 l 1
+ 466 -15 l 1
+ 432 5 l 1
+ 428 10 l 1
+ 424 17 l 1
+ 423 22 l 1
+ 423 29 l 1
+ 424 34 l 1
+ 440 66 l 1
+ 445 72 l 1
+ 456 77 l 1
+ 466 77 l 1
+ 478 72 l 1
+EndSplineSet
+EndChar

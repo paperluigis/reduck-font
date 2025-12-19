@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: ReduckSans
-FullName: Reduck Sans
+FontName: ReduckSans.Mono.Bold
+FullName: Reduck Mono Bold
 FamilyName: Reduck Sans
-Weight: Regular
+Weight: Bold
 Copyright: 
 UComments: "2025-12-13: Created with FontForge (http://fontforge.org)"
 Version: 001.000
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1765643887
-ModificationTime: 1765912659
+ModificationTime: 1766168784
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,17 +36,18 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 Lookup: 1 0 0 "thing2" { "thing2-1"  } []
 Lookup: 2 0 0 "thing" { "thing-1"  "thing-2"  } []
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: UnicodeBmp
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 0
 FitToEm: 0
-WinInfo: 65403 13 9
+WinInfo: 65260 13 9
 BeginPrivate: 0
 EndPrivate
 Grid

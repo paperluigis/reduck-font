@@ -1,0 +1,36 @@
+StartChar: fullwidth_grave
+Encoding: 65344 65344 579
+Width: 1000
+Flags: HW
+VStem: 363.4 191.699
+LayerCount: 2
+Fore
+SplineSet
+422 760 m 1
+ 427 756 l 1
+ 448 722 l 1
+ 462 710 l 1
+ 463 709 l 1
+ 496 687 l 1
+ 528 664 l 1
+ 531 660 l 1
+ 536 650 l 1
+ 536 640 l 1
+ 530 627 l 1
+ 519 620 l 1
+ 506 620 l 1
+ 499 622 l 1
+ 468 645 l 1
+ 433 668 l 1
+ 430 673 l 1
+ 414 688 l 1
+ 408 691 l 1
+ 384 730 l 1
+ 382 736 l 1
+ 382 748 l 1
+ 389 759 l 1
+ 402 765 l 1
+ 412 765 l 1
+ 422 760 l 1
+EndSplineSet
+EndChar

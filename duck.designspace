@@ -2,7 +2,7 @@
 <!-- ref: https://github.com/fonttools/fonttools/blob/main/Doc/source/designspaceLib/xml.rst -->
 <designspace format="5.1">
 	<axes>
-		<axis name="weight" tag="wght" default="500" minimum="200" maximum="700">
+		<axis name="weight" tag="wght" default="200" minimum="200" maximum="700">
 			<labels>
 				<label uservalue="200" name="Light" />
 				<label uservalue="400" name="Regular" />
@@ -17,9 +17,9 @@
 		</axis>
 	</axes>
 	<sources>
-		<source filename="ReduckSans.Regular.Mono.ufo">
+		<source filename="ReduckSans.Light.Mono.ufo">
 			<location>
-		        <dimension name="weight" xvalue="500" />
+		        <dimension name="weight" xvalue="200" />
 		        <dimension name="monospacedness" xvalue="1" />
 		    </location>
 		</source>

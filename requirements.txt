@@ -1,0 +1,3 @@
+fontmake
+mountain-svgpath
+pyclipr2

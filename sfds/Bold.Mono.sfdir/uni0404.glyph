@@ -2,6 +2,7 @@ StartChar: uni0404
 Encoding: 1028 1028 115
 Width: 1000
 InSpiro: 1
+Flags: H
 LayerCount: 2
 Back
 Image2: image/png 12506 0 800 9.52381 9.52381
